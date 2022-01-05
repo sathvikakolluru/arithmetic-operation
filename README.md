@@ -5,8 +5,10 @@ int sum,sub,mul,div;
 sum=a+b;
 sub=a-b:
 mul=a*b;
+div=a/b;
 mod=a%b;
 System.out.println("sum is: ",sum);
 System.out.println("sub is: ",sub);
 System.out.println("mul is: ",mul);
+System.out.println("div is: ",div);
 System.out.println("mod is: ",mod);
