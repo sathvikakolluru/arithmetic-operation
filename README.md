@@ -1,7 +1,7 @@
 # arithmetic-operation
 int a=2;
 int b=3;
-int sum,sub,mul,div;
+int sum,sub,mul,mod;
 sum=a+b;
 sub=a-b:
 mul=a*b;
